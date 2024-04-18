@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/portfolio_aditya/static/css/main.bf538fe7.css",
+    "main.js": "/portfolio_aditya/static/js/main.0b9e9705.js",
+    "static/media/HeroImage.jpg": "/portfolio_aditya/static/media/HeroImage.c8c46b80cc559956960a.jpg",
+    "index.html": "/portfolio_aditya/index.html",
+    "main.bf538fe7.css.map": "/portfolio_aditya/static/css/main.bf538fe7.css.map",
+    "main.0b9e9705.js.map": "/portfolio_aditya/static/js/main.0b9e9705.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.0b9e9705.js"
+  ]
+}
